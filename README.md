@@ -12,5 +12,6 @@ Desenvolvido em Python 3.
 ![tela_tabela](https://user-images.githubusercontent.com/117494481/200458418-25bf158f-824a-4069-bfb3-bb7cd4c9c85d.png)
 
 Para executar, faça:
+- download dos arquivos e pastas da "branch" "master" em alguma pasta de seu computador
 - abrir um prompt de comando ou terminal na pasta do simulador
 - executar o comando: python main.py
