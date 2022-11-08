@@ -1,5 +1,6 @@
 # Simulador-NaCl-MEG
 Simulação solubilidade do NaCl com solvente Água/MEG.
+
 Desenvolvido em Python 3.
 
 ![tela_salsolido](https://user-images.githubusercontent.com/117494481/200457111-cc91c066-529c-4e25-ae07-cd041e12ead6.png)
